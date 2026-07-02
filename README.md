@@ -41,14 +41,6 @@ Estudante de **Bacharelado em Tecnologia da Informação pela UNIVESP** e profis
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusrochadomingues&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrochadomingues&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Vamos nos conectar?
 
