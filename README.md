@@ -10,12 +10,12 @@
 </p>
 
 ### 👨‍💻 Sobre Mim
-Sou estudante de **Bacharelado em Tecnologia da Informação pela UNIVESP** e profissional com ampla experiência em rotinas administrativas, suporte comercial e atendimento ao cliente. Atualmente, estou unindo minha bagagem organizacional com o mundo da tecnologia, focando meus estudos em **Cloud Computing (AWS)**[cite: 1].
+Sou estudante de **Bacharelado em Tecnologia da Informação pela UNIVESP** e profissional com ampla experiência em rotinas administrativas, suporte comercial e atendimento ao cliente. Atualmente, estou unindo minha bagagem organizacional com o mundo da tecnologia, focando meus estudos em **Cloud Computing (AWS)**.
 
-- 🎓 Graduando em **Tecnologia da Informação** – UNIVESP (Início em 2025)[cite: 1]
-- ☁️ **Certificado AWS Certified Cloud Practitioner** (Conquistado em Março/2025)[cite: 1]
-- 🚀 Aprimorando habilidades em Linux, lógica de programação e versionamento com Git/GitHub[cite: 1]
-- 📍 Localizado em Capela do Alto - SP[cite: 1]
+- 🎓 Graduando em **Tecnologia da Informação** – UNIVESP (Início em 2025)
+- ☁️ **Certificado AWS Certified Cloud Practitioner** (Conquistado em Março/2025)
+- 🚀 Aprimorando habilidades em Linux, lógica de programação e versionamento com Git/GitHub
+- 📍 Localizado em Capela do Alto - SP
 
 ---
 
@@ -31,14 +31,14 @@ Sou estudante de **Bacharelado em Tecnologia da Informação pela UNIVESP** e pr
 </div>
 
 #### 💼 Competências de Negócio & Processos
-* **Nuvem:** Conhecimento prático em EC2, S3, RDS, IAM, Lambda, CloudWatch e VPC[cite: 1].
-* **Administrativo & Comercial:** Faturamento, emissão de notas fiscais eletrônicas, controle de pagamentos e suporte a vendas[cite: 1].
-* **Sistemas:** Experiência com sistemas de automação comercial e ERP Certtus[cite: 1].
+* **Nuvem:** Conhecimento prático em EC2, S3, RDS, IAM, Lambda, CloudWatch e VPC.
+* **Administrativo & Comercial:** Faturamento, emissão de notas fiscais eletrônicas, controle de pagamentos e suporte a vendas.
+* **Sistemas:** Experiência com sistemas de automação comercial e ERP Certtus.
 
 ---
 
 ### 📚 Cursos e Certificações Recentes
-* **Fundamentos AWS** – Escola da Nuvem (Programa Re/start)[cite: 1]
+* **Fundamentos AWS** – Escola da Nuvem (Programa Re/start)
 
 ---
 
@@ -52,7 +52,7 @@ Sou estudante de **Bacharelado em Tecnologia da Informação pela UNIVESP** e pr
 ---
 
 ### 📫 Vamos nos conectar?
-Estou sempre aberto a oportunidades como Assistente Comercial/Tecnologia, além de trocas de experiências sobre projetos na nuvem e desenvolvimento web![cite: 1]
+Estou sempre aberto a oportunidades como Assistente Comercial/Tecnologia, além de trocas de experiências sobre projetos na nuvem e desenvolvimento web!
 
 - **LinkedIn:** [viniciusrochadomingues](https://www.linkedin.com/in/viniciusrochadomingues/)
 - **E-mail:** [vinih.domingues@hotmail.com](mailto:vinih.domingues@hotmail.com)
