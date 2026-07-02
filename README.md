@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinícius Rocha! 👋
+# Olá, eu sou o Vinícius! 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/viniciusrochadomingues/" target="_blank">
