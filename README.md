@@ -38,7 +38,7 @@ Estudante de **Bacharelado em Tecnologia da Informação pela UNIVESP** e profis
 
 ### 📚 Cursos e Certificações Recentes
 * **Fundamentos AWS** – Escola da Nuvem (Programa Re/start)
-* **Certificado AWS Cloud Practictioner**.
+* **AWS Cloud Practictioner**.
 
 ---
 
