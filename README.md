@@ -51,7 +51,6 @@ Estudante de **Bacharelado em Tecnologia da Informação pela UNIVESP** e profis
 ---
 
 ### 📫 Vamos nos conectar?
-Estou sempre aberto a oportunidades como Assistente Comercial/Tecnologia, além de trocas de experiências sobre projetos na nuvem e desenvolvimento web!
 
 - **LinkedIn:** [viniciusrochadomingues](https://www.linkedin.com/in/viniciusrochadomingues/)
 - **E-mail:** [vinih.domingues@hotmail.com](mailto:vinih.domingues@hotmail.com)
