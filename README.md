@@ -10,11 +10,11 @@
 </p>
 
 ###
-Estudante de **Bacharelado em Tecnologia da Informação pela UNIVESP** e profissional com ampla experiência em rotinas administrativas, suporte comercial e atendimento ao cliente. Atualmente, estou unindo minha bagagem organizacional com o mundo da tecnologia, focando meus estudos em **Cloud Computing (AWS)**.
+Estudante de **Bacharelado em Tecnologia da Informação pela UNIVESP** e profissional com ampla experiência em rotinas administrativas,  atendimento ao cliente. Atualmente, estou unindo minha bagagem organizacional com o mundo da tecnologia, focando meus estudos em **Cloud Computing (AWS)**.
 
 - 🎓 Graduando em **Tecnologia da Informação** – UNIVESP (Início em 2025)
 - ☁️ **Certificado AWS Certified Cloud Practitioner** (Conquistado em Março/2025)
-- 🚀 Aprimorando habilidades em Linux, lógica de programação e versionamento com Git/GitHub
+- 🚀 Aprimorando habilidades em Linux, Computação em Nuvem, Serviços AWS e versionamento com Git/GitHub
 - 📍 Localizado em Capela do Alto - SP
 
 ---
