@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinícius! 👋
+# Olá, eu sou o Vinícius! 👨‍💻
 
 <p align="left">
   <a href="https://www.linkedin.com/in/viniciusrochadomingues/" target="_blank">
@@ -9,8 +9,8 @@
   </a>
 </p>
 
-### 👨‍💻 Sobre Mim
-Sou estudante de **Bacharelado em Tecnologia da Informação pela UNIVESP** e profissional com ampla experiência em rotinas administrativas, suporte comercial e atendimento ao cliente. Atualmente, estou unindo minha bagagem organizacional com o mundo da tecnologia, focando meus estudos em **Cloud Computing (AWS)**.
+###
+Estudante de **Bacharelado em Tecnologia da Informação pela UNIVESP** e profissional com ampla experiência em rotinas administrativas, suporte comercial e atendimento ao cliente. Atualmente, estou unindo minha bagagem organizacional com o mundo da tecnologia, focando meus estudos em **Cloud Computing (AWS)**.
 
 - 🎓 Graduando em **Tecnologia da Informação** – UNIVESP (Início em 2025)
 - ☁️ **Certificado AWS Certified Cloud Practitioner** (Conquistado em Março/2025)
