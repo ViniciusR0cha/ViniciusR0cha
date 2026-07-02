@@ -1,16 +1,58 @@
-## Hi there 👋
+# Olá, eu sou o Vinícius Rocha! 👋
 
-<!--
-**ViniciusR0cha/ViniciusR0cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://www.linkedin.com/in/viniciusrochadomingues/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:vinih.domingues@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre Mim
+Sou estudante de **Bacharelado em Tecnologia da Informação pela UNIVESP** e profissional com ampla experiência em rotinas administrativas, suporte comercial e atendimento ao cliente. Atualmente, estou unindo minha bagagem organizacional com o mundo da tecnologia, focando meus estudos em **Cloud Computing (AWS)**[cite: 1].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduando em **Tecnologia da Informação** – UNIVESP (Início em 2025)[cite: 1]
+- ☁️ **Certificado AWS Certified Cloud Practitioner** (Conquistado em Março/2025)[cite: 1]
+- 🚀 Aprimorando habilidades em Linux, lógica de programação e versionamento com Git/GitHub[cite: 1]
+- 📍 Localizado em Capela do Alto - SP[cite: 1]
+
+---
+
+### 🛠️ Habilidades e Tecnologias
+
+#### 🖥️ Tecnologia & Desenvolvimento
+<div style="display: inline_block">
+  <img align="center" alt="AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
+
+#### 💼 Competências de Negócio & Processos
+* **Nuvem:** Conhecimento prático em EC2, S3, RDS, IAM, Lambda, CloudWatch e VPC[cite: 1].
+* **Administrativo & Comercial:** Faturamento, emissão de notas fiscais eletrônicas, controle de pagamentos e suporte a vendas[cite: 1].
+* **Sistemas:** Experiência com sistemas de automação comercial e ERP Certtus[cite: 1].
+
+---
+
+### 📚 Cursos e Certificações Recentes
+* **Fundamentos AWS** – Escola da Nuvem (Programa Re/start)[cite: 1]
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusrochadomingues&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrochadomingues&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+Estou sempre aberto a oportunidades como Assistente Comercial/Tecnologia, além de trocas de experiências sobre projetos na nuvem e desenvolvimento web![cite: 1]
+
+- **LinkedIn:** [viniciusrochadomingues](https://www.linkedin.com/in/viniciusrochadomingues/)[cite: 1]
+- **E-mail:** [vinih.domingues@hotmail.com](mailto:vinih.domingues@hotmail.com)[cite: 1]
